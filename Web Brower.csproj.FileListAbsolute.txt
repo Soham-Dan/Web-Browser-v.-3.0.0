@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\bin\Debug\Web Brower.exe.config
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\bin\Debug\Web Brower.exe
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\bin\Debug\Web Brower.pdb
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web Brower.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web_Brower.Form1.resources
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web_Brower.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web Brower.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web Brower.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web Brower.exe
+C:\Users\Lenovo\source\repos\Web Brower\Web Brower\obj\Debug\Web Brower.pdb
